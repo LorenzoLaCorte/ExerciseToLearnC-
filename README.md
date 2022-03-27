@@ -1,2 +1,2 @@
-# ExerciseToLearnC-
+# ExerciseToLearnCPP
 Year: 2019
